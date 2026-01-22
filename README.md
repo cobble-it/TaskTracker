@@ -35,4 +35,4 @@ This is another edit from Mark cuz things were not working...
   _    /   ,    \/\_
  ((____|    )_-\ \_-`
  `-----'`-----` `--`
-This is another cat.  THis one sould work.
+This is another cat.  This one should work.
