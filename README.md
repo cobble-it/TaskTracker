@@ -26,3 +26,13 @@ This is the 3rd edit from Mark... It came from the command line.
     aac  `, \   / ,'  (,-----' / 
            ""' '""     '------' 
 Here is another cat!
+
+This is another edit from Mark cuz things were not working...
+               _ |\_
+               \` ..\
+          __,.-" =__Y=     asciiart.cc
+  aac   ."        )
+  _    /   ,    \/\_
+ ((____|    )_-\ \_-`
+ `-----'`-----` `--`
+This is another cat.  THis one sould work.
